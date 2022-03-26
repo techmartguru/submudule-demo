@@ -1,3 +1,6 @@
 [submodule "github-pr-demo"]
 	path = github-pr-demo
 	url = git@github.com:techmartguru/github-pr-demo.git
+[submodule "demo-test"]
+	path = demo-test
+	url = git@github.com:techmartguru/demo-test.git
