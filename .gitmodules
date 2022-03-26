@@ -1,0 +1,3 @@
+[submodule "github-pr-demo"]
+	path = github-pr-demo
+	url = git@github.com:techmartguru/github-pr-demo.git
